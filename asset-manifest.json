@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MYTODO-APP-React/static/css/main.7e6930f7.css",
+    "main.js": "/MYTODO-APP-React/static/js/main.5d21c480.js",
+    "index.html": "/MYTODO-APP-React/index.html",
+    "main.7e6930f7.css.map": "/MYTODO-APP-React/static/css/main.7e6930f7.css.map",
+    "main.5d21c480.js.map": "/MYTODO-APP-React/static/js/main.5d21c480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6930f7.css",
+    "static/js/main.5d21c480.js"
+  ]
+}
